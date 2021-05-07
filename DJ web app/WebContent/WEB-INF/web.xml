@@ -1,0 +1,46 @@
+<web-app>   
+
+
+  
+     <welcome-file-list>  
+          <welcome-file>login.jsp</welcome-file>  
+     </welcome-file-list>    
+      
+     <servlet>  
+          <servlet-name>Payment</servlet-name>  
+          <servlet-class>Payment</servlet-class>  
+     </servlet>  
+  
+     <servlet-mapping>  
+          <servlet-name>Payment</servlet-name>  
+          <url-pattern>/Payment</url-pattern>  
+     </servlet-mapping>  
+  
+
+   
+     
+        <servlet>  
+          <servlet-name>Register</servlet-name>  
+          <servlet-class>Register</servlet-class>  
+     </servlet>  
+  
+     <servlet-mapping>  
+          <servlet-name>Register</servlet-name>  
+          <url-pattern>/Register</url-pattern>  
+     </servlet-mapping>  
+
+  
+
+     
+        <servlet>  
+          <servlet-name>Feedback</servlet-name>  
+          <servlet-class>Feedback</servlet-class>  
+     </servlet>  
+  
+     <servlet-mapping>  
+          <servlet-name>Feedback</servlet-name>  
+          <url-pattern>/Feedback</url-pattern>  
+     </servlet-mapping>  
+  
+   
+</web-app>
