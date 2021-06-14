@@ -8,6 +8,6 @@
 in eclipse ide for Dynamic Web Project
 -->Then, select a new Project-> Dynamic Web Project.
 -->Save sql files as well
-SQL SOFTWARE USED: MYSQL
-SERVER USED: APACHE TOMCAT 
+--->SQL SOFTWARE USED: MYSQL
+--->SERVER USED: APACHE TOMCAT 
 
