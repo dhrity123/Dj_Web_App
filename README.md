@@ -1,7 +1,7 @@
 # Dj_Web_App
 ---------------Steps--------------------
 -->Download Eclipse IDE
--->Install 
+-->Install from eclipse marketplace
 1)Eclipse Java EE Developer Tools
 2)Eclipse Java Web Developer Tools
 3)Eclipse Web Developer Tools
